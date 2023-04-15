@@ -30,7 +30,7 @@ THEN the saved events persist
 ![A user clicks on slots on the color-coded calendar and edits the events.](./Assets/images/githubscreenshot.PNG)
 
 ### Links
-Github url - 
+Github url - https://github.com/amalahema/01_challenge_workdaysheduler
 
 ## My Approach
 
