@@ -24,17 +24,13 @@ WHEN I click the save button for that timeblock
 THEN the text for that event is saved in local storage
 WHEN I refresh the page
 THEN the saved events persist
-```md
-AS AN employee with a busy schedule
-I WANT to add important events to a daily planner
-SO THAT I can manage my time effectively
-```
+
 ### Screenshot
 
 ![A user clicks on slots on the color-coded calendar and edits the events.](./Assets/images/workdayshedule%20updated%20with%20present%20past%20%26%20future.PNG)
 
 ### Links
-Github url - https://github.com/amalahema/01_challenge_workdaysheduler
+Github url - 
 
 ## My Approach
 
