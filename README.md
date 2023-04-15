@@ -27,7 +27,7 @@ THEN the saved events persist
 
 ### Screenshot
 
-![A user clicks on slots on the color-coded calendar and edits the events.](./Assets/images/workdayshedule%20updated%20with%20present%20past%20%26%20future.PNG)
+![A user clicks on slots on the color-coded calendar and edits the events.](./Assets/images/final.PNG)
 
 ### Links
 Github url - 
