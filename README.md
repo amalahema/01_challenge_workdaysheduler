@@ -27,7 +27,7 @@ THEN the saved events persist
 
 ### Screenshot
 
-![A user clicks on slots on the color-coded calendar and edits the events.](./Assets/images/final.PNG)
+![A user clicks on slots on the color-coded calendar and edits the events.](./Assets/images/githubscreenshot.PNG)
 
 ### Links
 Github url - 
